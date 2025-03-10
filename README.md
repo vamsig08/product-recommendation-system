@@ -22,8 +22,7 @@
     cd ../frontend
    npm install
    npm start
-
-##Enter desired effects for recommendations
+4. Enter desired effects for recommendations
 
 ## Approach:
   -- Since the mock data had product description and their effects, content-based filtering felt like the best approach. 
