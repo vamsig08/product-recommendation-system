@@ -1,4 +1,4 @@
-##This is a  AI-Powered Product Recommendation System with RAG
+## This is a  AI-Powered Product Recommendation System with RAG
 
 ## How to Run the Prototype:
 
