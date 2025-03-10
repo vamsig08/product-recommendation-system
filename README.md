@@ -42,7 +42,7 @@
 ## Areas for improvement:
 1. **Utilizing real time datasets, with more products for more options and diversity.**
 2. **Implementing collaborative filtering which is a more common recommendation algorithm, very popular.**
-3. **Using LLMs for RAG implementation as I mentioned before, it provides a better grammar making descriptions sound more polished and contextualized.**
+3. **Using LLMs for RAG implementation as I mentioned before, it provides a better grammar for descriptions to sound more polished and contextualized.**
 4. **For this protoype, I built a straightforward user interface using React. The current UI meets the users needs, but its not visually appealing.**
   
     
