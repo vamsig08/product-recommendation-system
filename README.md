@@ -10,7 +10,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/product-recommendation-system.git
+   git clone https://github.com/vamsig08/product-recommendation-system.git
    cd product-recommendation-system 
 2. **Backend Setup**:
    ```bash
